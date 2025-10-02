@@ -29,9 +29,9 @@ Inc=Naam[0:7:3] # 3 is increment
 
 lists=["hello",1,22.3,False,True,"apple"] #list mutable canbe changed
 tupple=(1,2,3,"helloo") #tupple immutalbe cannot change
-a = () #Emply tuple
-a= (1,) # Tuple with only one element needs a Comra
-a = ( 1,7,2) # Tuple with mare than one clement
+a = () #Empty tuple
+a= (1,) # Tuple with only one element needs a Comma
+a = ( 1,7,2) # Tuple with more than one element
 
 dict={
     "key":"value"
